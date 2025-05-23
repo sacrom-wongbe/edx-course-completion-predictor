@@ -1,6 +1,6 @@
 # edX Course Completion Predictor
 
-This project builds a machine learning model to predict whether students will complete online courses on the edX platform, using de-identified data from HarvardX and MITx.
+This project builds a machine learning model to predict whether students will complete online courses on the edX platform, using de-identified data from HarvardX and MITx. Opted away from neural networks, focused on more classic models used in industry to do quick analyses.
 
 ## Models Used
 - Logistic Regression
